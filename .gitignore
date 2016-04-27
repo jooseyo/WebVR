@@ -56,3 +56,9 @@ Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+/Binaries
+/DerivedDataCache
+/Intermediate
+/Saved
+/Build
